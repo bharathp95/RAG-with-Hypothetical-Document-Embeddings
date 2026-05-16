@@ -1,4 +1,4 @@
-\# Chat with your PDF using HyDE — Full Code Explanation
+# Chat with your PDF using HyDE — Full Code Explanation
 
 A RAG pipeline that uses **Hypothetical Document Embeddings (HyDE)** to retrieve more relevant chunks from a PDF and answer questions using an LLM.
 
